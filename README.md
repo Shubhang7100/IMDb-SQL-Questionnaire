@@ -1,1 +1,1 @@
-# IMDb-SQL-Questionnaire-
+# IMDb SQL Questionnaire
